@@ -1,0 +1,9 @@
+To be able to open the website:
+
+1. Navigate to the reveal.js-master folder using File Explorer
+
+2. Once this file is open, right click on the file named index.html or index
+
+3. Then hover over "Open with" and select the preferrd web browser.
+
+The website should then open.
